@@ -10,7 +10,7 @@
 
   <name>leetcode</name>
   <!-- FIXME change it to the project's website -->
-  <url>http://www.blog.soler.cc</url>
+  <url>https://blog.soler.cc</url>
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
